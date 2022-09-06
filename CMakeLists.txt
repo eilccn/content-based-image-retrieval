@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION "3.17")
+project(project2)
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( project2 target.cpp features.cpp directory.cpp csv_util.cpp distance.cpp filters.cpp )
+target_link_libraries( project2 ${OpenCV_LIBS} )
+set( CMAKE_CXX_STANDARD 14 )
