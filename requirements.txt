@@ -1,0 +1,2 @@
+cmake
+opencv==3.1

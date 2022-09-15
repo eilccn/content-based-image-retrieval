@@ -139,5 +139,5 @@ pic.1086.jpg: 0.151822
 pic.0750.jpg: 0.153592
 ```
 
-### Wiki Report
+###### Khoury Wiki
 [Khoury Wiki Report](https://wiki.khoury.northeastern.edu/x/mYR5Bg) 
